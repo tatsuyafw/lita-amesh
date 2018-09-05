@@ -48,8 +48,8 @@ module Lita
             return "mesh/000/#{current_time_str}.gif"
           end
 
-          current_time_i -= current_time_i % 5
-          "mesh/000/#{current_time_i}.gif"
+          time = current_time_i - (current_time_i % 5)
+          "mesh/000/#{time}.gif"
         end
       end
     end
