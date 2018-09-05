@@ -19,7 +19,7 @@ $ convert -version
 
 ### Required attributes
 
-NOTE: So far this gem only supports Slack adapter.
+NOTE: As of now, this gem only supports the Slack adapter.
 
 - `config.adapters.slack.token` (String)
 
