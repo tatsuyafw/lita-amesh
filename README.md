@@ -1,5 +1,7 @@
 # lita-amesh
 
+[![CircleCI Status](https://circleci.com/gh/tatsuyafw/lita-amesh/tree/master.svg?style=svg)](https://circleci.com/gh/tatsuyafw/lita-amesh/tree/master)
+
 lita-amesh is a handler for Lita that displays a Tokyo amesh image in a chart room.
 
 ## Installation
