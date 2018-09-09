@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lita-amesh (0.0.1)
+    lita-amesh (0.1.0)
       lita (>= 4.7)
       mini_magick
       slack-ruby-client
