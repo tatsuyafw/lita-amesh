@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "lita-amesh"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Tatsuya Hoshino"]
   spec.email         = ["tatsuya7.hoshino7@gmail.com"]
   spec.description   = %q{A Lita handler for displaying an image of Tokyo amesh.}
